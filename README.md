@@ -20,7 +20,7 @@ This project demonstrates the application of Deep Q-Learning to solve the Lunar 
 
 ## Results
 
-The trained DQN agent achieves an average score of 250 over 100 episodes, successfully solving the Lunar Lander environment.
+The trained DQN agent achieves an average score of 250 over 448 episodes, successfully solving the Lunar Lander environment.
 
 ![Demo of the application](landing.gif)
 
